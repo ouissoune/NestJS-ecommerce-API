@@ -1,0 +1,7 @@
+username,password,email
+johndoe,Password123,johndoe@example.com
+janedoe,SecurePass456,janedoe@example.com
+alice,MyPass789,alice@example.com
+bob,Secret321,bob@example.com
+charlie,PassWord654,charlie@example.com
+sami,string,user@example.com
